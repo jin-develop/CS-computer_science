@@ -1,0 +1,30 @@
+Complexity  (N)
+
+
+# Input >= 0
+# functions do more work for more input
+# drop all constants --> 3n, 5n, 8n all -> just n
+
+In n^2 and n - don't consider n<1 
+consider n infinity
+
+# ignore lower order terms / ex) n^3 + n^2 + n + 5
+just n^3  --> n^3 algorithm
+
+# ignore the base of logs
+math.log(2) = ln(2)
+if you want to find --> ln(2) / ln(10)
+
+# 2n = O(n)  => mean of settle
+
+1, C == constant time
+log n -- usually divine things half or times 2 == trees
+n == one per item
+n^2 == compare all to all - bubble sort
+n! == traveling sales
+
+
+
+
+
+
