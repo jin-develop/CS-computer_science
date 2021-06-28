@@ -1,0 +1,12 @@
+Generic Programming
+
+public class ss{
+	public int[] superSort(int[] array){
+		// ...sort...
+		return array;
+	}
+}
+
+// int 대신 string을 사용하고 싶으면 int대신 string을 넣으면 된다.
+
+목표는 모든것들을 정렬할수 있도록
