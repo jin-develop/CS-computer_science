@@ -7,8 +7,11 @@ var kim = {
     }
 }
 
-var lee = {
-    name : 'lee',
+// 자바스크립트의 객체 - 속성(Attribute)과 행위(Method)를 정의할수 있다.
+
+
+var park = {
+    name : 'park',
     first : 10,
     second : 70,
     sum : function(){
@@ -58,6 +61,7 @@ var lee1 = new Person('lee', 10, 10, 90);
 
 console.log(kim1.name);
 console.log(lee1.sum());
+
 
 
 
